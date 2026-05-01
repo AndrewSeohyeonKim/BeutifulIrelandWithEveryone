@@ -63,7 +63,7 @@
 
   <!-- Bottom service strip -->
   <g transform="translate(110,520)" font-family="'Noto Sans KR', sans-serif" fill="#F4EDE0">
-    <text x="0" y="0" font-size="20" font-weight="500" opacity="0.85">✈️ 공항 픽업·드랍 &nbsp;·&nbsp; 🌿 당일 로드트립 &nbsp;·&nbsp; 🏠 이사·운송 &nbsp;·&nbsp; ✏️ 커스텀 여행</text>
+    <text x="0" y="0" font-size="20" font-weight="500" opacity="0.85">✈️ 공항 픽업·드랍   ·   🌿 당일 로드트립   ·   🏠 이사·운송   ·   ✏️ 커스텀 여행</text>
     <text x="0" y="40" font-size="16" font-weight="400" opacity="0.6">사회봉사 활동(Classical Music for Everyone) 순환 운영</text>
   </g>
 </svg>
